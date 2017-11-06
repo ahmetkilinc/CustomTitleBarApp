@@ -23,7 +23,7 @@ create a xml file and name it custom_titlebar.xml :
         android:layout_width="44dp"
         android:layout_height="41dp"
         android:layout_marginLeft="16dp"
-        android:background="@drawable/dx_icon"
+        android:background="@drawable/my_icon"
         android:text=""
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -97,7 +97,7 @@ change the theme from manifest file:
       
       
       
-change your Java activity from AppCombatActivity to Activity
+change your Java activity from AppCombatActivity to Activity and add the missing parts.
 
     public class MainActivity extends Activity {
 
