@@ -115,7 +115,7 @@ change your Java activity from AppCombatActivity to Activity and add the missing
             @Override
             public void onClick(View view) {
 
-                Toast.makeText(MainActivity.this, "Great job you got it, thanks to ahmet... :)", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Great job.", Toast.LENGTH_SHORT).show();
             }
         });
     }
