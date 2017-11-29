@@ -88,7 +88,7 @@ add style to style.xml:
     
     
     
-change the theme from manifest file:
+change the theme of which activity you like to be with custom layout, from manifest file :
 
       android:theme="@style/appTheme"
       
